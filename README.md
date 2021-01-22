@@ -1,4 +1,4 @@
-Preview: [Github](http://jaywcjlove.github.io/github-rank/) | [Gitee](http://jaywcjlove.gitee.io/github-rank) | [UNPKG](https://unpkg.com/@wcj/github-rank/web/index.html) | [Githack](https://raw.githack.com/jaywcjlove/github-rank/gh-pages/index.html) | [Statically](https://cdn.statically.io/gh/jaywcjlove/github-rank/gh-pages/index.html)
+Preview: [Github](https://github.devtool.tech)
 
 <p align="center">
   <a href="https://jaywcjlove.github.io/github-rank">

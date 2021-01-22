@@ -44,7 +44,7 @@ function markDeath(data: ICreateFollowersHTML[] = []) {
     users = markDeath(users);
     
     let html: string = creatFollowersHTML(users, 'global');
-    FS.outputFileSync(path.join(process.cwd(), 'web', 'index.html'), html);
+    FS.outputFileSync(path.join(process.cwd(), 'web', 'users.global.html'), html);
     console.log(`> 全球用户 Follower 排行榜，页面生成成功！共${users.length}条数据！`);
 
     users = [...usersChinaDone];
@@ -99,7 +99,7 @@ function markDeath(data: ICreateFollowersHTML[] = []) {
 
     let toutiao: IToutiaoData[] = [...toutiao7];
     html = creatToutiaoHTML(toutiao, 7);
-    FS.outputFileSync(path.join(process.cwd(), 'web', 'toutiao-7.html'), html);
+    FS.outputFileSync(path.join(process.cwd(), 'web', 'index.html'), html);
     console.log(`> 头条 7 趋势榜，页面生成成功！共${sifou.length}条数据！`);
 
     toutiao = [...toutiao30];
