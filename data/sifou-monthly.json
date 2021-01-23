@@ -1,21 +1,12 @@
 [
   {
-    "title": "AWS 开源：与社区一起逐步实现真正开源的 Elasticsearch",
-    "description": "近日，Elastic 在官网发文称将对 Elasticsearch 和 Kibana 在许可证方面进行了重大的更改，由开源 Apache 2.0 许可证改为采用 Elastic License 和 SSPL（服务器端公共许可证）。",
-    "url": "https://segmentfault.com/a/1190000039060487",
-    "author": "鸣飞",
-    "home_url": "https://segmentfault.com/u/mf",
-    "votes": "4",
-    "rank": 1
-  },
-  {
     "title": "2020 年前端精选文章年度汇总",
     "description": "我又双叒分类整理了一批高质量的前端文章，当作是新年礼物送给大家。怎么有一种拿着《5年高考3年模拟》去拜年的感觉...如果觉得不够没关系，去年的也不过时，可以继续看：2020 年前端面试复习必读文章【超三百篇...",
     "url": "https://segmentfault.com/a/1190000039017733",
     "author": "axuebin",
     "home_url": "https://segmentfault.com/u/axuebin",
-    "votes": "42",
-    "rank": 2
+    "votes": "43",
+    "rank": 1
   },
   {
     "title": "有道云笔记新版编辑器架构设计（上）",
@@ -24,6 +15,15 @@
     "author": "有道技术团队",
     "home_url": "https://segmentfault.com/u/youdaotec",
     "votes": "17",
+    "rank": 2
+  },
+  {
+    "title": "AWS 开源：与社区一起逐步实现真正开源的 Elasticsearch",
+    "description": "近日，Elastic 在官网发文称将对 Elasticsearch 和 Kibana 在许可证方面进行了重大的更改，由开源 Apache 2.0 许可证改为采用 Elastic License 和 SSPL（服务器端公共许可证）。",
+    "url": "https://segmentfault.com/a/1190000039060487",
+    "author": "鸣飞",
+    "home_url": "https://segmentfault.com/u/mf",
+    "votes": "4",
     "rank": 3
   },
   {
@@ -54,40 +54,22 @@
     "rank": 6
   },
   {
+    "title": "《带你入门前端工程》开源了",
+    "description": "这是一本关于前端工程化的小书（4W 字左右 ）。项目地址：[链接]前端工程化，其实是软件工程在前端方面的应用。什么是软件工程？来看一下百度百科的定义：软件工程是一门研究用工程化方法构建和维护有效的、实用...",
+    "url": "https://segmentfault.com/a/1190000039060346",
+    "author": "谭光志",
+    "home_url": "https://segmentfault.com/u/woai3c",
+    "votes": "15",
+    "rank": 7
+  },
+  {
     "title": "面试官：为什么 Promise 比setTimeout() 快？",
     "description": "点赞再看，微信搜索【大迁世界】,B站关注【前端小智】这个没有大厂背景，但有着一股向上积极心态人。本文 GitHub [链接] 上已经收录，文章的已分类，也整理了很多我的文档，和教程资料。",
     "url": "https://segmentfault.com/a/1190000038769853",
     "author": "前端小智",
     "home_url": "https://segmentfault.com/u/minnanitkong",
     "votes": "11",
-    "rank": 7
-  },
-  {
-    "title": "《带你入门前端工程》开源了",
-    "description": "这是一本关于前端工程化的小书（4W 字左右 ）。项目地址：[链接]前端工程化，其实是软件工程在前端方面的应用。什么是软件工程？来看一下百度百科的定义：软件工程是一门研究用工程化方法构建和维护有效的、实用...",
-    "url": "https://segmentfault.com/a/1190000039060346",
-    "author": "谭光志",
-    "home_url": "https://segmentfault.com/u/woai3c",
-    "votes": "14",
     "rank": 8
-  },
-  {
-    "title": "Vue3 的学习教程汇总、源码解释项目、支持的 UI 组件库、优质实战项目",
-    "description": "大家好，我是你们的 猫哥，一个不喜欢吃鱼、又不喜欢喵 的超级猫 ~关于猫哥，大家可以看看我的年终总结 前端工程师的 2020 年终总结 - 3 年之痒。前言猫哥是一个常年混迹在 GitHub 上的猫星人，所以发现了不少好...",
-    "url": "https://segmentfault.com/a/1190000039047740",
-    "author": "夜尽天明",
-    "home_url": "https://segmentfault.com/u/biaochenxuying",
-    "votes": "11",
-    "rank": 9
-  },
-  {
-    "title": "18个编写 JavaScript 好习惯！",
-    "description": "点赞再看，微信搜索【大迁世界】,B站关注【前端小智】这个没有大厂背景，但有着一股向上积极心态人。本文 GitHub [链接] 上已经收录，文章的已分类，也整理了很多我的文档，和教程资料。",
-    "url": "https://segmentfault.com/a/1190000038900665",
-    "author": "前端小智",
-    "home_url": "https://segmentfault.com/u/minnanitkong",
-    "votes": "18",
-    "rank": 10
   },
   {
     "title": "7款小“神器”火了！让 Windows 效率起飞",
@@ -96,6 +78,24 @@
     "author": "民工哥",
     "home_url": "https://segmentfault.com/u/jishuroad",
     "votes": "26",
+    "rank": 9
+  },
+  {
+    "title": "Vue3 的学习教程汇总、源码解释项目、支持的 UI 组件库、优质实战项目",
+    "description": "大家好，我是你们的 猫哥，一个不喜欢吃鱼、又不喜欢喵 的超级猫 ~关于猫哥，大家可以看看我的年终总结 前端工程师的 2020 年终总结 - 3 年之痒。前言猫哥是一个常年混迹在 GitHub 上的猫星人，所以发现了不少好...",
+    "url": "https://segmentfault.com/a/1190000039047740",
+    "author": "夜尽天明",
+    "home_url": "https://segmentfault.com/u/biaochenxuying",
+    "votes": "12",
+    "rank": 10
+  },
+  {
+    "title": "18个编写 JavaScript 好习惯！",
+    "description": "点赞再看，微信搜索【大迁世界】,B站关注【前端小智】这个没有大厂背景，但有着一股向上积极心态人。本文 GitHub [链接] 上已经收录，文章的已分类，也整理了很多我的文档，和教程资料。",
+    "url": "https://segmentfault.com/a/1190000038900665",
+    "author": "前端小智",
+    "home_url": "https://segmentfault.com/u/minnanitkong",
+    "votes": "18",
     "rank": 11
   },
   {
@@ -225,22 +225,13 @@
     "rank": 25
   },
   {
-    "title": "大佬那么多，为什么不能是我 | 卡颂2020年终总结",
-    "description": "前几天北京公布一例确诊病例 —— 一位居住于顺义的34岁男子。伴随公告的，还有其最近一段时间的完整活动轨迹：工作日在家与公司之间往返50km，日复一日周末只有超市采购和带孩子参加早教活动才会出门，其他时间都...",
-    "url": "https://segmentfault.com/a/1190000039048836",
-    "author": "卡颂",
-    "home_url": "https://segmentfault.com/u/kasong",
-    "votes": "5",
-    "rank": 26
-  },
-  {
     "title": "思否年度有奖征文丨你的 2020 留下了哪些印记？",
     "description": "2020年已经结束，这一年过的太快，让人产生了一种虚幻而错乱的穿越感，仿佛上一秒还在年初，下一秒就临近年尾。但实际上这一年我们经历了太多，其中有恐慌、焦虑、辛酸和艰难，当然也有收获、快乐与感动。回顾 20...",
     "url": "https://segmentfault.com/a/1190000038755701",
     "author": "SegmentFault",
     "home_url": "https://segmentfault.com/u/segmentfault",
     "votes": "25",
-    "rank": 27
+    "rank": 26
   },
   {
     "title": "2020 年 JavaScript 状态调研报告小结",
@@ -249,6 +240,15 @@
     "author": "libinfs",
     "home_url": "https://segmentfault.com/u/libinfs",
     "votes": "14",
+    "rank": 27
+  },
+  {
+    "title": "YYDS: Webpack Plugin开发",
+    "description": "@[toc]  作为一名踏足前端时间不长的小开发必须得聊一聊webpack，刚开始接触webpack时第一反应这是啥(⊙_⊙)? 怎么这么复杂，感觉好难呀，算了先不管这些！时间是个好东西呀，随着对前端工程化的实践和理解慢慢加深...",
+    "url": "https://segmentfault.com/a/1190000039030243",
+    "author": "哇喔WEB",
+    "home_url": "https://segmentfault.com/u/waweb",
+    "votes": "11",
     "rank": 28
   }
 ]

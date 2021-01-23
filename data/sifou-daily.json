@@ -9,85 +9,40 @@
     "rank": 1
   },
   {
-    "title": "AWS 开源：与社区一起逐步实现真正开源的 Elasticsearch",
-    "description": "近日，Elastic 在官网发文称将对 Elasticsearch 和 Kibana 在许可证方面进行了重大的更改，由开源 Apache 2.0 许可证改为采用 Elastic License 和 SSPL（服务器端公共许可证）。",
-    "url": "https://segmentfault.com/a/1190000039060487",
-    "author": "鸣飞",
-    "home_url": "https://segmentfault.com/u/mf",
-    "votes": "4",
-    "rank": 2
-  },
-  {
-    "title": "《带你入门前端工程》开源了",
-    "description": "这是一本关于前端工程化的小书（4W 字左右 ）。项目地址：[链接]前端工程化，其实是软件工程在前端方面的应用。什么是软件工程？来看一下百度百科的定义：软件工程是一门研究用工程化方法构建和维护有效的、实用...",
-    "url": "https://segmentfault.com/a/1190000039060346",
-    "author": "谭光志",
-    "home_url": "https://segmentfault.com/u/woai3c",
-    "votes": "14",
-    "rank": 3
-  },
-  {
-    "title": "解决内存溢出问题",
-    "description": "vue-cli3.0构建的项目，开发过程中，可能会遇到内存溢出的情况，改动一点代码，代码编译，进程就会断掉，报JavaScript heap out of memory 内存溢出的错误",
-    "url": "https://segmentfault.com/a/1190000039060977",
-    "author": "comer",
-    "home_url": "https://segmentfault.com/u/comer",
-    "votes": "5",
-    "rank": 4
-  },
-  {
     "title": "案例分享：在生产中持续使用Amazon CodeGuru Profiler进行程序优化",
     "description": "本文由 Atlassian 高级软件工程师 Behrooz Nobakht、工程技术经理 Matthew Ponsford 以及高级软件工程师 Narayanaswamy Anandapadmanabhan 联手撰写。",
     "url": "https://segmentfault.com/a/1190000039064489",
     "author": "AWS_AI开发者社区",
     "home_url": "https://segmentfault.com/u/aws_aidevcommunity",
     "votes": "1",
+    "rank": 2
+  },
+  {
+    "title": "通俗易懂的JUC源码剖析-CopyOnWriteArrayList",
+    "description": "众所皆知，ArrayList是线程不安全的，它的所有方法都没有加锁，那么有没有线程安全并且性能高的类呢？那就是CopyOnWriteArrayList",
+    "url": "https://segmentfault.com/a/1190000039065671",
+    "author": "小强大人",
+    "home_url": "https://segmentfault.com/u/xiaoqiangdaren",
+    "votes": "1",
+    "rank": 3
+  },
+  {
+    "title": "并发CAS机制你真的理解了嘛？（深入到操作系统分析）",
+    "description": "为什么需要CAS机制呢？我们先从一个错误现象谈起。我们经常使用volatile关键字修饰某一个变量，表明这个变量是全局共享的一个变量，同时具有了可见性和有序性。但是却没有原子性。比如说一个常见的操作a++。这个...",
+    "url": "https://segmentfault.com/a/1190000039065049",
+    "author": "愚公要移山",
+    "home_url": "https://segmentfault.com/u/a_yugong",
+    "votes": "1",
+    "rank": 4
+  },
+  {
+    "title": "GraphQL 基础篇一",
+    "description": "我们可以发现，查询和结果拥有一样的结构和字段。这是 GraphQL 最重要的特性，因为这样一来，你就总是能得到你想要的数据，而服务器也准确地知道客户端请求的字段。",
+    "url": "https://segmentfault.com/a/1190000039064820",
+    "author": "PatWu16",
+    "home_url": "https://segmentfault.com/u/wupeng_5a4de5c290b9d",
+    "votes": "1",
     "rank": 5
-  },
-  {
-    "title": "“漂浮的基站”被迫落地，Alphabet “登月”技术项目之一被叫停",
-    "description": "这是一个落地于 10 年前的项目，主要业务为利用携带着太阳能设备的大型气球在高空中将高速网络信号传到地面。这也是 Alphabet 研究实验室最热门的“登月”技术项目之一。",
-    "url": "https://segmentfault.com/a/1190000039062528",
-    "author": "王治治",
-    "home_url": "https://segmentfault.com/u/wangdazhi_sifou",
-    "votes": "1",
-    "rank": 6
-  },
-  {
-    "title": "成功打造一个开源软件的秘诀在于开源社区",
-    "description": "健康的开源软件项目不能一蹴而就，应该慢慢培养。而培养的秘诀就在于开源社区的建设，如何吸引开源开发者？如何留住开源开发者？如何规避和解决与开源开发者的冲突？如何保持社区发展？以上这些问题是建设开源社...",
-    "url": "https://segmentfault.com/a/1190000039061606",
-    "author": "宗恩",
-    "home_url": "https://segmentfault.com/u/yzn",
-    "votes": "1",
-    "rank": 7
-  },
-  {
-    "title": "面试官问我CAS，我一点都不慌",
-    "description": "文章以纯面试的角度去讲解，所以有很多的细节是未铺垫的。文章中写到的处理线程安全的思路每一项技术都可以写出一篇文章，AQS、Synchronized、Atomic...周末肝起来！下周再来给大家安排！从上一篇文章反馈中，还...",
-    "url": "https://segmentfault.com/a/1190000039060303",
-    "author": "Java3y",
-    "home_url": "https://segmentfault.com/u/java_3y",
-    "votes": "2",
-    "rank": 8
-  },
-  {
-    "title": "JAVA的SPI机制",
-    "description": "SPI（Service Provider Interface）: ，“服务提供者接口”，是指在 服务使用方 角度提出的“接口要求”，是对“服务提供方”提出的约定，简单说就是：“我需要这样的服务，现在你们来满足”。",
-    "url": "https://segmentfault.com/a/1190000039061639",
-    "author": "java宝典",
-    "home_url": "https://segmentfault.com/u/liangtengyu",
-    "votes": "1",
-    "rank": 9
-  },
-  {
-    "title": "讲给应届生的 Java 开源知识项目",
-    "description": "JVM 又被称作 Java 虚拟机，用来运行 Java 字节码文件（.class），因为 JVM 对于特定系统（Windows，Linux，macOS）有不同的具体实现，即它屏蔽了具体的操作系统和平台等信息，因此同一字节码文件可以在各种平台...",
-    "url": "https://segmentfault.com/a/1190000039060803",
-    "author": "Java攻城师",
-    "home_url": "https://segmentfault.com/u/javagongchengshi_5fa8ea3fc325a",
-    "votes": "2",
-    "rank": 10
   },
   {
     "title": "前端算法系列之一：时间复杂度、空间复杂度以及数据结构栈、队列的实现",
@@ -96,7 +51,7 @@
     "author": "JasonCloud",
     "home_url": "https://segmentfault.com/u/jasonwu20151119",
     "votes": "1",
-    "rank": 11
+    "rank": 6
   },
   {
     "title": "idea中使用Git,Github,Gitee提交项目",
@@ -105,7 +60,7 @@
     "author": "李三岁",
     "home_url": "https://segmentfault.com/u/lisansui_5fc7ad1078a9f",
     "votes": "2",
-    "rank": 12
+    "rank": 7
   },
   {
     "title": "聊聊cortex的Backoff",
@@ -114,7 +69,7 @@
     "author": "codecraft",
     "home_url": "https://segmentfault.com/u/codecraft",
     "votes": "1",
-    "rank": 13
+    "rank": 8
   },
   {
     "title": "政采云前端小报第118期",
@@ -123,42 +78,6 @@
     "author": "政采云前端团队",
     "home_url": "https://segmentfault.com/u/zhengcaiyunqianduantuandui",
     "votes": "2",
-    "rank": 14
-  },
-  {
-    "title": "第四范式D轮融资7亿美元，将用于布局产业和培养人才",
-    "description": "本轮融资由博裕资本、春华资本、厚朴投资领投，并引入国家制造业转型基金、国开、国新、中国建投、中信建投、海通证券等战略股东，红杉中国、中信产业基金、高盛、金镒资本和方源资本等财务投资机构。",
-    "url": "https://segmentfault.com/a/1190000039060906",
-    "author": "宗恩",
-    "home_url": "https://segmentfault.com/u/yzn",
-    "votes": "1",
-    "rank": 15
-  },
-  {
-    "title": "基于 WebRTC 实现自定义编码分辨率发送",
-    "description": "2020年如果问什么技术领域最火？毫无疑问：音视频。2020年远程办公和在线教育的强势发展，都离不开音视频的身影，视频会议、在线教学、娱乐直播等都是音视频的典型应用场景。",
-    "url": "https://segmentfault.com/a/1190000039060572",
-    "author": "网易云信",
-    "home_url": "https://segmentfault.com/u/neteaseyunxin",
-    "votes": "1",
-    "rank": 16
-  },
-  {
-    "title": "Redis高可用总结：Redis主从复制、哨兵集群、脑裂...",
-    "description": "在实际的项目中，服务高可用非常重要，如，当Redis作为缓存服务使用时， 缓解数据库的压力，提高数据的访问速度，提高网站的性能 ，但如果使用Redis 是单机模式运行 ，只要一个服务器宕机就不可以提供服务，这样...",
-    "url": "https://segmentfault.com/a/1190000039060249",
-    "author": "Ccww",
-    "home_url": "https://segmentfault.com/u/ccww",
-    "votes": "6",
-    "rank": 17
-  },
-  {
-    "title": "Linux 的安全合规性检查和加固",
-    "description": "本文旨在指导系统管理人员或安全检查人员进行Linux操作系统的安全合规性检查和加固。14个Linux系统安全小妙招，总有一招用的上！1. 账号和口令1.1 禁用或删除无用账号减少系统无用账号，降低安全风险。操作步骤使...",
-    "url": "https://segmentfault.com/a/1190000039060246",
-    "author": "民工哥",
-    "home_url": "https://segmentfault.com/u/jishuroad",
-    "votes": "2",
-    "rank": 18
+    "rank": 9
   }
 ]

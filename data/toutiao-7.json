@@ -2,7 +2,7 @@
   {
     "title": "Spring 中那些让你爱不释手的代码技巧",
     "description": "前言 最近越来越多的读者认可我的文章，还是件挺让人高兴的事情。有些读者私信我说希望后面多分享spring方面的文章，这样能够在实际工作中派上用场。正好我对spring源码有过一定的...",
-    "votes": "142",
+    "votes": "145",
     "url": "/k/lev94mm",
     "avatar": "https://img.toutiao.io/subject%2F2897d48b5341479ba9a75cd95cffa9d4",
     "avatarAlt": "第五维度 - 独家号",
@@ -12,7 +12,7 @@
   {
     "title": "闯过这 54 关，点亮你的 Git 技能树",
     "description": "开篇如今，Git 大行其道，颇有一统天下之势。如果你的技能树上 Git 和 Github 的图标还没有点亮的话，你都不好意思说你是程序员。别说互联网企业，我接触到的许多传统企业都在...",
-    "votes": "32",
+    "votes": "34",
     "url": "/k/6kqnm2d",
     "avatar": "https://img.toutiao.io/user/c4b0a6dd73634edba21e7ef41b5622a3/thumb",
     "avatarAlt": "软件匠艺社区 - 独家号",
@@ -22,7 +22,7 @@
   {
     "title": "使用了这个神器，让我的代码 bug 少了一半",
     "description": "  最近一段时间，我们团队在生产环境出现了几次线上问题，有部分比较严重，直接影响用户功能的使用，惹得领导不高兴了，让我想办法提升代码质量，这时候项目工程代码质量检测神器——Sona...",
-    "votes": "118",
+    "votes": "121",
     "url": "/k/w8zvjee",
     "avatar": "https://img.toutiao.io/subject%2F0aae3536b7d44492b1974b1077394f7d",
     "avatarAlt": "苏三说技术 - 独家号",
@@ -32,7 +32,7 @@
   {
     "title": "可能是说的最分明的 IaaS, PaaS, FaaS, SaaS, MicroService, Serverless 了",
     "description": "絮语如果说哪个行业最会起名字，那么互联网和软件行业称第二的话，估计没人敢称第一，比如什么复盘，赋能，组合拳，引爆点，泛用型，强化认知….等等这些让你听了是耳濡目旋的，高大上，我完全...",
-    "votes": "23",
+    "votes": "25",
     "url": "/k/p2q8xl8",
     "avatar": "https://img.toutiao.io/subject%2F8a8f3e13ec2941f086510bd7c5453dec",
     "avatarAlt": "崇丕软件头条 - 独家号",
@@ -52,7 +52,7 @@
   {
     "title": "三万字，Spark 学习笔记",
     "description": "Spark 基础  Spark特性 Spark使用简练优雅的Scala语言编写，基于Scala提供了交互式编程体验，同时提供多种方便易用的API。Spark遵循“一个软件栈满足不同...",
-    "votes": "18",
+    "votes": "19",
     "url": "/k/wjp0vit",
     "avatar": "https://img.toutiao.io/subject%2F0bd01d30f85345feb85424b2928d99b2",
     "avatarAlt": "进击的程序猿 - 独家号",
@@ -132,12 +132,22 @@
   {
     "title": "把 VSCode 打造成技术写作神器",
     "description": "作为技术开发，大家平时肯定需要记录技术笔记。甚至有的同学还开通可自己的技术博客或者技术公众号进行创作。这个时候有套趁手的写作工具尤为重要，节省下时间好好休息一下，对于咱们程序员来说...",
-    "votes": "62",
+    "votes": "64",
     "url": "/k/4n0p7ex",
     "avatar": "https://img.toutiao.io/subject%2Fad3da7db4aeb4924adba40f7036c43ee",
     "avatarAlt": "老瘦家儿子 - 独家号",
     "subjectName": "老瘦家儿子",
     "homeUrl": "/subjects/102436"
+  },
+  {
+    "title": "微服务实现简单的分布式日志追踪",
+    "description": "最近想给项目添加一个简单的分布式请求跟踪功能，从前端发起请求到网关，再从网关调用 SpringCloud 的微服务，这些过程中希望能从日志中看到一个分布式 ID 的链路，通过请求的...",
+    "votes": "60",
+    "url": "/k/s7af3dl",
+    "avatar": "https://img.toutiao.io/subject%2Fc0fcca1841d3492a9c6a91e8af2a5c87",
+    "avatarAlt": "技术杂谈 - 独家号",
+    "subjectName": "技术杂谈",
+    "homeUrl": "/subjects/5207"
   },
   {
     "title": "如何落地云原生 DevOps？",
@@ -148,16 +158,6 @@
     "avatarAlt": "4k咖啡豆 - 独家号",
     "subjectName": "4k咖啡豆",
     "homeUrl": "/subjects/158649"
-  },
-  {
-    "title": "微服务实现简单的分布式日志追踪",
-    "description": "最近想给项目添加一个简单的分布式请求跟踪功能，从前端发起请求到网关，再从网关调用 SpringCloud 的微服务，这些过程中希望能从日志中看到一个分布式 ID 的链路，通过请求的...",
-    "votes": "50",
-    "url": "/k/s7af3dl",
-    "avatar": "https://img.toutiao.io/subject%2Fc0fcca1841d3492a9c6a91e8af2a5c87",
-    "avatarAlt": "技术杂谈 - 独家号",
-    "subjectName": "技术杂谈",
-    "homeUrl": "/subjects/5207"
   },
   {
     "title": "1 个人独立变现 6 种途径收入 130 万美金在 2020 年（人物志 21 篇）",
@@ -190,13 +190,13 @@
     "homeUrl": "/subjects/458"
   },
   {
-    "title": "工具 | 滴滴开源的一站式 Apache Kafka 集群指标监控与运维管控平台",
-    "description": "大家好，我是周刊菌。 以下内容选自「码农周刊 VIP 会员」圈子，每日更新，精彩不断。  「码农周刊 VIP 会员」推出 38 周啦！感谢亲们的大力支持！第 038 期「码农周刊 ...",
-    "votes": "14",
-    "url": "/k/jz2zdk9",
-    "avatar": "https://img.toutiao.io/subject%2Fd2f421bbe0be47369b6560e316a5153b",
-    "avatarAlt": "头条精选 - 独家号",
-    "subjectName": "头条精选",
-    "homeUrl": "/subjects/4"
+    "title": "分布式唯一 ID 解决方案：雪花算法",
+    "description": "阅读大概需要3分钟附源码[toc]前言单体架构的服务的日子已经一去不复返了。当前系统业务和数据存储的复杂度都在提升，分布式系统是目前使用非常普遍的解决方案。全局唯一 ID 几乎是所...",
+    "votes": "23",
+    "url": "/k/eyvwks8",
+    "avatar": "https://img.toutiao.io/subject%2F0d2e1a0f4c6e4c839c9de67bdc03715c",
+    "avatarAlt": "JavaPub - 独家号",
+    "subjectName": "JavaPub",
+    "homeUrl": "/subjects/454740"
   }
 ]
