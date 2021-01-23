@@ -9,11 +9,11 @@
     "rank": 1
   },
   {
-    "title": "案例分享：在生产中持续使用Amazon CodeGuru Profiler进行程序优化",
-    "description": "本文由 Atlassian 高级软件工程师 Behrooz Nobakht、工程技术经理 Matthew Ponsford 以及高级软件工程师 Narayanaswamy Anandapadmanabhan 联手撰写。",
-    "url": "https://segmentfault.com/a/1190000039064489",
-    "author": "AWS_AI开发者社区",
-    "home_url": "https://segmentfault.com/u/aws_aidevcommunity",
+    "title": "前端算法系列之一：时间复杂度、空间复杂度以及数据结构栈、队列的实现",
+    "description": "1x + 5y +10z + 15k + 20*j = 16 ；刚开始想着如何求解多元方程，往矩阵求解去了，结果越做越复杂，后面发现这个和背包问题很像；然后就再重温一下一些算法和数据结构的知识，也就有了这个系列，我计划是把相关数...",
+    "url": "https://segmentfault.com/a/1190000039067397",
+    "author": "JasonCloud",
+    "home_url": "https://segmentfault.com/u/jasonwu20151119",
     "votes": "1",
     "rank": 2
   },
@@ -45,22 +45,13 @@
     "rank": 5
   },
   {
-    "title": "前端算法系列之一：时间复杂度、空间复杂度以及数据结构栈、队列的实现",
-    "description": "1x + 5y +10z + 15k + 20*j = 16 ；刚开始想着如何求解多元方程，往矩阵求解去了，结果越做越复杂，后面发现这个和背包问题很像；然后就再重温一下一些算法和数据结构的知识，也就有了这个系列，我计划是把相关数...",
-    "url": "https://segmentfault.com/a/1190000039067397",
-    "author": "JasonCloud",
-    "home_url": "https://segmentfault.com/u/jasonwu20151119",
-    "votes": "1",
-    "rank": 6
-  },
-  {
     "title": "idea中使用Git,Github,Gitee提交项目",
     "description": "一、gitgit是一个分布式的版本控制系统,可以借助于git去实现团队代码版本控制及管理.1.下载安装gitgit下载地址git下载完成以后，傻瓜式(一直下一步)安装即可，不要更改安装目录(假如已安装过则无须安装)。2.git全...",
     "url": "https://segmentfault.com/a/1190000039066404",
     "author": "李三岁",
     "home_url": "https://segmentfault.com/u/lisansui_5fc7ad1078a9f",
     "votes": "2",
-    "rank": 7
+    "rank": 6
   },
   {
     "title": "聊聊cortex的Backoff",
@@ -69,7 +60,7 @@
     "author": "codecraft",
     "home_url": "https://segmentfault.com/u/codecraft",
     "votes": "1",
-    "rank": 8
+    "rank": 7
   },
   {
     "title": "政采云前端小报第118期",
@@ -78,6 +69,6 @@
     "author": "政采云前端团队",
     "home_url": "https://segmentfault.com/u/zhengcaiyunqianduantuandui",
     "votes": "2",
-    "rank": 9
+    "rank": 8
   }
 ]

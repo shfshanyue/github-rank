@@ -22,7 +22,7 @@
   {
     "title": "使用了这个神器，让我的代码 bug 少了一半",
     "description": "  最近一段时间，我们团队在生产环境出现了几次线上问题，有部分比较严重，直接影响用户功能的使用，惹得领导不高兴了，让我想办法提升代码质量，这时候项目工程代码质量检测神器——Sona...",
-    "votes": "121",
+    "votes": "124",
     "url": "/k/w8zvjee",
     "avatar": "https://img.toutiao.io/subject%2F0aae3536b7d44492b1974b1077394f7d",
     "avatarAlt": "苏三说技术 - 独家号",
@@ -130,6 +130,16 @@
     "homeUrl": "/subjects/452638"
   },
   {
+    "title": "微服务实现简单的分布式日志追踪",
+    "description": "最近想给项目添加一个简单的分布式请求跟踪功能，从前端发起请求到网关，再从网关调用 SpringCloud 的微服务，这些过程中希望能从日志中看到一个分布式 ID 的链路，通过请求的...",
+    "votes": "63",
+    "url": "/k/s7af3dl",
+    "avatar": "https://img.toutiao.io/subject%2Fc0fcca1841d3492a9c6a91e8af2a5c87",
+    "avatarAlt": "技术杂谈 - 独家号",
+    "subjectName": "技术杂谈",
+    "homeUrl": "/subjects/5207"
+  },
+  {
     "title": "把 VSCode 打造成技术写作神器",
     "description": "作为技术开发，大家平时肯定需要记录技术笔记。甚至有的同学还开通可自己的技术博客或者技术公众号进行创作。这个时候有套趁手的写作工具尤为重要，节省下时间好好休息一下，对于咱们程序员来说...",
     "votes": "64",
@@ -138,16 +148,6 @@
     "avatarAlt": "老瘦家儿子 - 独家号",
     "subjectName": "老瘦家儿子",
     "homeUrl": "/subjects/102436"
-  },
-  {
-    "title": "微服务实现简单的分布式日志追踪",
-    "description": "最近想给项目添加一个简单的分布式请求跟踪功能，从前端发起请求到网关，再从网关调用 SpringCloud 的微服务，这些过程中希望能从日志中看到一个分布式 ID 的链路，通过请求的...",
-    "votes": "60",
-    "url": "/k/s7af3dl",
-    "avatar": "https://img.toutiao.io/subject%2Fc0fcca1841d3492a9c6a91e8af2a5c87",
-    "avatarAlt": "技术杂谈 - 独家号",
-    "subjectName": "技术杂谈",
-    "homeUrl": "/subjects/5207"
   },
   {
     "title": "如何落地云原生 DevOps？",

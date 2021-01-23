@@ -126,21 +126,21 @@
     "rank": 14
   },
   {
-    "title": "Bash 脚本进阶，经典用法及其案例",
-    "description": "在linux中，Bash脚本是很基础的知识，大家可能一听脚本感觉很高大上，像小编当初刚开始学一样，感觉会写脚本的都是大神。虽然复杂的脚本是很烧脑，但是，当我们熟练的掌握了其中的用法与技巧，再多加练习，总有一...",
-    "url": "https://segmentfault.com/a/1190000039042692",
-    "author": "民工哥",
-    "home_url": "https://segmentfault.com/u/jishuroad",
-    "votes": "8",
-    "rank": 15
-  },
-  {
     "title": "这些 JS 中强大的操作符，总有几个你没听说过",
     "description": "JS 里的操作符大家每天都在使用，还有一些 ES2020、ES2021 新加的实用操作符，这些共同构成了 JS 灵活的语法生态。本文除介绍常用的操作符之外，还会介绍 JS 里一些不常用但是很强大的操作符，下面我们一起来看看...",
     "url": "https://segmentfault.com/a/1190000039008417",
     "author": "SHERlocked93",
     "home_url": "https://segmentfault.com/u/sherlocked93",
     "votes": "20",
+    "rank": 15
+  },
+  {
+    "title": "Bash 脚本进阶，经典用法及其案例",
+    "description": "在linux中，Bash脚本是很基础的知识，大家可能一听脚本感觉很高大上，像小编当初刚开始学一样，感觉会写脚本的都是大神。虽然复杂的脚本是很烧脑，但是，当我们熟练的掌握了其中的用法与技巧，再多加练习，总有一...",
+    "url": "https://segmentfault.com/a/1190000039042692",
+    "author": "民工哥",
+    "home_url": "https://segmentfault.com/u/jishuroad",
+    "votes": "8",
     "rank": 16
   },
   {
@@ -153,31 +153,22 @@
     "rank": 17
   },
   {
-    "title": "解决内存溢出问题",
-    "description": "vue-cli3.0构建的项目，开发过程中，可能会遇到内存溢出的情况，改动一点代码，代码编译，进程就会断掉，报JavaScript heap out of memory 内存溢出的错误",
-    "url": "https://segmentfault.com/a/1190000039060977",
-    "author": "comer",
-    "home_url": "https://segmentfault.com/u/comer",
-    "votes": "5",
-    "rank": 18
-  },
-  {
     "title": "大佬那么多，为什么不能是我 | 卡颂2020年终总结",
     "description": "前几天北京公布一例确诊病例 —— 一位居住于顺义的34岁男子。伴随公告的，还有其最近一段时间的完整活动轨迹：工作日在家与公司之间往返50km，日复一日周末只有超市采购和带孩子参加早教活动才会出门，其他时间都...",
     "url": "https://segmentfault.com/a/1190000039048836",
     "author": "卡颂",
     "home_url": "https://segmentfault.com/u/kasong",
     "votes": "5",
-    "rank": 19
+    "rank": 18
   },
   {
-    "title": "别再问我们用什么画图的了！问就是excalidraw",
-    "description": "每次发 [链接] 相关文章时，都会有读者问我们用什么画图的。这图什么工具画的呀？好看！这个手绘风格真好看，用啥工具画的呀？可不可以介绍下这个画图的工具？诸如此类的问题，所以我决定写篇短文介绍下我们最常...",
-    "url": "https://segmentfault.com/a/1190000039068374",
-    "author": "kevinwan",
-    "home_url": "https://segmentfault.com/u/kevinwan",
-    "votes": "1",
-    "rank": 20
+    "title": "解决内存溢出问题",
+    "description": "vue-cli3.0构建的项目，开发过程中，可能会遇到内存溢出的情况，改动一点代码，代码编译，进程就会断掉，报JavaScript heap out of memory 内存溢出的错误",
+    "url": "https://segmentfault.com/a/1190000039060977",
+    "author": "comer",
+    "home_url": "https://segmentfault.com/u/comer",
+    "votes": "5",
+    "rank": 19
   },
   {
     "title": "微信小程序云开发",
@@ -186,7 +177,7 @@
     "author": "xiangzhihong",
     "home_url": "https://segmentfault.com/u/xiangzhihong",
     "votes": "2",
-    "rank": 21
+    "rank": 20
   },
   {
     "title": "基于区块开发",
@@ -195,6 +186,15 @@
     "author": "dabai",
     "home_url": "https://segmentfault.com/u/dabai_5955b2921e87d",
     "votes": "1",
+    "rank": 21
+  },
+  {
+    "title": "Redis缓存总结：淘汰机制、缓存雪崩、数据不一致....",
+    "description": "越努力，越幸运，本文已收藏在GitHub中JavaCommunity, 里面有面试分享、源码分析系列文章，欢迎收藏，点赞[链接]在实际的工作项目中， 缓存成为高并发、高性能架构的关键组件 ，那么Redis为什么可以作为缓存使用...",
+    "url": "https://segmentfault.com/a/1190000039020626",
+    "author": "Ccww",
+    "home_url": "https://segmentfault.com/u/ccww",
+    "votes": "27",
     "rank": 22
   },
   {
@@ -207,22 +207,13 @@
     "rank": 23
   },
   {
-    "title": "Redis缓存总结：淘汰机制、缓存雪崩、数据不一致....",
-    "description": "越努力，越幸运，本文已收藏在GitHub中JavaCommunity, 里面有面试分享、源码分析系列文章，欢迎收藏，点赞[链接]在实际的工作项目中， 缓存成为高并发、高性能架构的关键组件 ，那么Redis为什么可以作为缓存使用...",
-    "url": "https://segmentfault.com/a/1190000039020626",
-    "author": "Ccww",
-    "home_url": "https://segmentfault.com/u/ccww",
-    "votes": "27",
-    "rank": 24
-  },
-  {
     "title": "深入理解React Diff算法",
     "description": "fiber上的updateQueue经过React的一番计算之后，这个fiber已经有了新的状态，也就是state，对于类组件来说，state是在render函数里被使用的，既然已经得到了新的state，那么当务之急是执行一次render，得到持有新...",
     "url": "https://segmentfault.com/a/1190000039021724",
     "author": "nero",
     "home_url": "https://segmentfault.com/u/neronero",
     "votes": "13",
-    "rank": 25
+    "rank": 24
   },
   {
     "title": "你不知道的 CSS 进度条",
@@ -231,6 +222,15 @@
     "author": "陈大鱼头",
     "home_url": "https://segmentfault.com/u/fish_head",
     "votes": "19",
+    "rank": 25
+  },
+  {
+    "title": "YYDS: Webpack Plugin开发",
+    "description": "@[toc]  作为一名踏足前端时间不长的小开发必须得聊一聊webpack，刚开始接触webpack时第一反应这是啥(⊙_⊙)? 怎么这么复杂，感觉好难呀，算了先不管这些！时间是个好东西呀，随着对前端工程化的实践和理解慢慢加深...",
+    "url": "https://segmentfault.com/a/1190000039030243",
+    "author": "哇喔WEB",
+    "home_url": "https://segmentfault.com/u/waweb",
+    "votes": "11",
     "rank": 26
   },
   {
@@ -243,12 +243,12 @@
     "rank": 27
   },
   {
-    "title": "YYDS: Webpack Plugin开发",
-    "description": "@[toc]  作为一名踏足前端时间不长的小开发必须得聊一聊webpack，刚开始接触webpack时第一反应这是啥(⊙_⊙)? 怎么这么复杂，感觉好难呀，算了先不管这些！时间是个好东西呀，随着对前端工程化的实践和理解慢慢加深...",
-    "url": "https://segmentfault.com/a/1190000039030243",
-    "author": "哇喔WEB",
-    "home_url": "https://segmentfault.com/u/waweb",
-    "votes": "11",
+    "title": "淘宝一面：“说一下 Spring Boot 自动装配原理呗？”",
+    "description": "本文已经收录进 Github 95k+ Star 的Java项目JavaGuide 。JavaGuide项目地址 : [链接] 。作者：Miki-byte-1024 & Snailclimb每次问到 Spring Boot， 面试官非常喜欢问这个问题：“讲述一下 SpringBoot 自动装...",
+    "url": "https://segmentfault.com/a/1190000039045866",
+    "author": "JavaGuide",
+    "home_url": "https://segmentfault.com/u/javaguide",
+    "votes": "4",
     "rank": 28
   }
 ]
