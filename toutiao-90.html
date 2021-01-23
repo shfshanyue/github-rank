@@ -21,10 +21,13 @@
     .title { padding: 46px 0 0 0; font-size: 18px; line-height: 24px; }
     .time, .footer { padding: 5px 0 2px 0; font-size: 12px; color: #adadad; }
     .tabs { padding: 10px 0 15px 0;}
-    .tabs a { background: #e2e2e2; display: inline-block; padding: 3px 7px; font-size: 12px; line-height: 16px; color: #0366d6; margin: .3rem 0; }
+    .tabs a { background: #e2e2e2; display: inline-block; padding: 3px 7px; font-size: 14px; line-height: 1.5em; color: #0366d6; margin: .3rem 0; }
     .tabs a.active { background: #696969; color: #efefef; }
     .footer { padding: 10px 0 30px 0; }
     .list { text-align: left; max-width: 470px; margin: 0 auto; padding-bottom: 10px; background-color: #efefef; border-radius: 5px; overflow: hidden; }
+
+    @media (min-width: 960px) { .list { max-width: 960px; } }
+
     .list img { width: 36px; height: 36px; border-radius: 3px; display: block; margin: 0 auto; background-color: #e2e2e2; border: 0; overflow: hidden; }
     .list a { color: #0366d6; }
     .list a:hover { color: #1600ff; }
@@ -92,7 +95,7 @@
     <li class="rank-title">
       <a href="https://toutiao.io/posts/hot/7" target="_blank">头条 热门分享</a>
       <span class="select">
-        <a class="" href="toutiao-7.html">7天</a>
+        <a class="" href="/">7天</a>
         <a class="" href="toutiao-30.html">30天</a>
         <a class="active" href="toutiao-90.html">90天</a>
       </span>

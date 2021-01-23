@@ -45,12 +45,12 @@
     "rank": 5
   },
   {
-    "title": "《带你入门前端工程》开源了",
-    "description": "这是一本关于前端工程化的小书（4W 字左右 ）。项目地址：[链接]前端工程化，其实是软件工程在前端方面的应用。什么是软件工程？来看一下百度百科的定义：软件工程是一门研究用工程化方法构建和维护有效的、实用...",
-    "url": "https://segmentfault.com/a/1190000039060346",
-    "author": "谭光志",
-    "home_url": "https://segmentfault.com/u/woai3c",
-    "votes": "14",
+    "title": "TypeScript 中提升幸福感的 10 个高级技巧",
+    "description": "用了一年时间的 TypeScript 了，项目中用到的技术是 Vue + TypeScript 的，深感中大型项目中 TypeScript 的必要性，特别是生命周期比较长的大型项目中更应该使用 TypeScript。",
+    "url": "https://segmentfault.com/a/1190000039030887",
+    "author": "夜尽天明",
+    "home_url": "https://segmentfault.com/u/biaochenxuying",
+    "votes": "22",
     "rank": 6
   },
   {
@@ -63,12 +63,12 @@
     "rank": 7
   },
   {
-    "title": "TypeScript 中提升幸福感的 10 个高级技巧",
-    "description": "用了一年时间的 TypeScript 了，项目中用到的技术是 Vue + TypeScript 的，深感中大型项目中 TypeScript 的必要性，特别是生命周期比较长的大型项目中更应该使用 TypeScript。",
-    "url": "https://segmentfault.com/a/1190000039030887",
-    "author": "夜尽天明",
-    "home_url": "https://segmentfault.com/u/biaochenxuying",
-    "votes": "22",
+    "title": "《带你入门前端工程》开源了",
+    "description": "这是一本关于前端工程化的小书（4W 字左右 ）。项目地址：[链接]前端工程化，其实是软件工程在前端方面的应用。什么是软件工程？来看一下百度百科的定义：软件工程是一门研究用工程化方法构建和维护有效的、实用...",
+    "url": "https://segmentfault.com/a/1190000039060346",
+    "author": "谭光志",
+    "home_url": "https://segmentfault.com/u/woai3c",
+    "votes": "14",
     "rank": 8
   },
   {
@@ -162,21 +162,21 @@
     "rank": 18
   },
   {
-    "title": "Taro 入门",
-    "description": "Taro 是一个遵循 React 语法规范的开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5 等应用，内置了UI组件，还有物料市场，只编写一套代码就能够适...",
-    "url": "https://segmentfault.com/a/1190000039033249",
-    "author": "时倾",
-    "home_url": "https://segmentfault.com/u/shiqing_5e690563e48cc",
-    "votes": "11",
-    "rank": 19
-  },
-  {
     "title": "Redis缓存总结：淘汰机制、缓存雪崩、数据不一致....",
     "description": "越努力，越幸运，本文已收藏在GitHub中JavaCommunity, 里面有面试分享、源码分析系列文章，欢迎收藏，点赞[链接]在实际的工作项目中， 缓存成为高并发、高性能架构的关键组件 ，那么Redis为什么可以作为缓存使用...",
     "url": "https://segmentfault.com/a/1190000039020626",
     "author": "Ccww",
     "home_url": "https://segmentfault.com/u/ccww",
     "votes": "27",
+    "rank": 19
+  },
+  {
+    "title": "Taro 入门",
+    "description": "Taro 是一个遵循 React 语法规范的开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5 等应用，内置了UI组件，还有物料市场，只编写一套代码就能够适...",
+    "url": "https://segmentfault.com/a/1190000039033249",
+    "author": "时倾",
+    "home_url": "https://segmentfault.com/u/shiqing_5e690563e48cc",
+    "votes": "11",
     "rank": 20
   },
   {
@@ -189,13 +189,22 @@
     "rank": 21
   },
   {
+    "title": "前端进阶不可错过的 10 个 Github 仓库",
+    "description": "2021 年已经来了，相信有一些小伙伴已经开始立 2021 年的 flag 了。在 2020 年有一些小伙伴，私下问阿宝哥有没有前端的学习资料。为了统一回答这个问题，阿宝哥精心挑选了 Github 上 10 个不错的开源项目。",
+    "url": "https://segmentfault.com/a/1190000038961532",
+    "author": "阿宝哥",
+    "home_url": "https://segmentfault.com/u/angular4",
+    "votes": "34",
+    "rank": 22
+  },
+  {
     "title": "Bash 脚本进阶，经典用法及其案例",
     "description": "在linux中，Bash脚本是很基础的知识，大家可能一听脚本感觉很高大上，像小编当初刚开始学一样，感觉会写脚本的都是大神。虽然复杂的脚本是很烧脑，但是，当我们熟练的掌握了其中的用法与技巧，再多加练习，总有一...",
     "url": "https://segmentfault.com/a/1190000039042692",
     "author": "民工哥",
     "home_url": "https://segmentfault.com/u/jishuroad",
     "votes": "8",
-    "rank": 22
+    "rank": 23
   },
   {
     "title": "50 年过去了，为何 SQL 仍那么重要？",
@@ -204,15 +213,6 @@
     "author": "袁钰涵",
     "home_url": "https://segmentfault.com/u/yuanhan_5f5f19f9dabdc",
     "votes": "7",
-    "rank": 23
-  },
-  {
-    "title": "前端进阶不可错过的 10 个 Github 仓库",
-    "description": "2021 年已经来了，相信有一些小伙伴已经开始立 2021 年的 flag 了。在 2020 年有一些小伙伴，私下问阿宝哥有没有前端的学习资料。为了统一回答这个问题，阿宝哥精心挑选了 Github 上 10 个不错的开源项目。",
-    "url": "https://segmentfault.com/a/1190000038961532",
-    "author": "阿宝哥",
-    "home_url": "https://segmentfault.com/u/angular4",
-    "votes": "34",
     "rank": 24
   },
   {
@@ -234,21 +234,21 @@
     "rank": 26
   },
   {
-    "title": "2020 年 JavaScript 状态调研报告小结",
-    "description": "一年一度的 Discover the State of JS 2020 results 在前几天新鲜出炉了，每次阅读这份报告都能帮助我快速地了解到 JavaScript 世界在这一年里都发生了哪些事情，同时也给了我一次查漏补缺的机会，让我十分收益。",
-    "url": "https://segmentfault.com/a/1190000039007864",
-    "author": "libinfs",
-    "home_url": "https://segmentfault.com/u/libinfs",
-    "votes": "14",
-    "rank": 27
-  },
-  {
     "title": "思否年度有奖征文丨你的 2020 留下了哪些印记？",
     "description": "2020年已经结束，这一年过的太快，让人产生了一种虚幻而错乱的穿越感，仿佛上一秒还在年初，下一秒就临近年尾。但实际上这一年我们经历了太多，其中有恐慌、焦虑、辛酸和艰难，当然也有收获、快乐与感动。回顾 20...",
     "url": "https://segmentfault.com/a/1190000038755701",
     "author": "SegmentFault",
     "home_url": "https://segmentfault.com/u/segmentfault",
     "votes": "25",
+    "rank": 27
+  },
+  {
+    "title": "2020 年 JavaScript 状态调研报告小结",
+    "description": "一年一度的 Discover the State of JS 2020 results 在前几天新鲜出炉了，每次阅读这份报告都能帮助我快速地了解到 JavaScript 世界在这一年里都发生了哪些事情，同时也给了我一次查漏补缺的机会，让我十分收益。",
+    "url": "https://segmentfault.com/a/1190000039007864",
+    "author": "libinfs",
+    "home_url": "https://segmentfault.com/u/libinfs",
+    "votes": "14",
     "rank": 28
   }
 ]

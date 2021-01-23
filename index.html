@@ -21,10 +21,13 @@
     .title { padding: 46px 0 0 0; font-size: 18px; line-height: 24px; }
     .time, .footer { padding: 5px 0 2px 0; font-size: 12px; color: #adadad; }
     .tabs { padding: 10px 0 15px 0;}
-    .tabs a { background: #e2e2e2; display: inline-block; padding: 3px 7px; font-size: 12px; line-height: 16px; color: #0366d6; margin: .3rem 0; }
+    .tabs a { background: #e2e2e2; display: inline-block; padding: 3px 7px; font-size: 14px; line-height: 1.5em; color: #0366d6; margin: .3rem 0; }
     .tabs a.active { background: #696969; color: #efefef; }
     .footer { padding: 10px 0 30px 0; }
     .list { text-align: left; max-width: 470px; margin: 0 auto; padding-bottom: 10px; background-color: #efefef; border-radius: 5px; overflow: hidden; }
+
+    @media (min-width: 960px) { .list { max-width: 960px; } }
+
     .list img { width: 36px; height: 36px; border-radius: 3px; display: block; margin: 0 auto; background-color: #e2e2e2; border: 0; overflow: hidden; }
     .list a { color: #0366d6; }
     .list a:hover { color: #1600ff; }
@@ -92,7 +95,7 @@
     <li class="rank-title">
       <a href="https://toutiao.io/posts/hot/7" target="_blank">头条 热门分享</a>
       <span class="select">
-        <a class="active" href="toutiao-7.html">7天</a>
+        <a class="active" href="/">7天</a>
         <a class="" href="toutiao-30.html">30天</a>
         <a class="" href="toutiao-90.html">90天</a>
       </span>
@@ -172,7 +175,7 @@
             <path d="M0 0h16v16H0z"/>
             <path fill="#9E9E9E" d="M4.234 6.693v7.243H2.881c-.486 0-.881-.492-.881-1.095V7.875c0-.63.412-1.182.88-1.182h1.354zm3.688-3.7C8.01 2.404 8.49 1.99 9.018 2c.754.015 1.204.663 1.36.983.284.585.292 1.549.097 2.167-.177.56-.586 1.296-.586 1.296h3.066c.324 0 .625.164.826.449.204.29.27.668.178 1.011l-1.387 5.183c-.126.499-.544.847-1.016.847H5.53V6.693c1.385-.309 2.236-2.632 2.392-3.7z"/>
           </g>
-        </svg><span>116</span>
+        </svg><span>118</span>
       </div>
     </li>
     
@@ -250,7 +253,7 @@
             <path d="M0 0h16v16H0z"/>
             <path fill="#9E9E9E" d="M4.234 6.693v7.243H2.881c-.486 0-.881-.492-.881-1.095V7.875c0-.63.412-1.182.88-1.182h1.354zm3.688-3.7C8.01 2.404 8.49 1.99 9.018 2c.754.015 1.204.663 1.36.983.284.585.292 1.549.097 2.167-.177.56-.586 1.296-.586 1.296h3.066c.324 0 .625.164.826.449.204.29.27.668.178 1.011l-1.387 5.183c-.126.499-.544.847-1.016.847H5.53V6.693c1.385-.309 2.236-2.632 2.392-3.7z"/>
           </g>
-        </svg><span>16</span>
+        </svg><span>18</span>
       </div>
     </li>
     
@@ -490,13 +493,39 @@
     
     <li>
       <div>
+        <a href="https://toutiao.io/subjects/5207" target="_blank">
+          <img src="https://img.toutiao.io/subject%2Fc0fcca1841d3492a9c6a91e8af2a5c87" loading="lazy" title="技术杂谈 - 独家号" alt="技术杂谈 - 独家号" />
+        </a>
+      </div>
+      <div class="info">
+        <div class="rank">
+          <span title="Ranking 16">16</span>
+          <a href="https://toutiao.io/k/s7af3dl" target="_blank" title="微服务实现简单的分布式日志追踪">微服务实现简单的分布式日志追踪</a>
+        </div>
+      
+        <div class="details">
+          最近想给项目添加一个简单的分布式请求跟踪功能，从前端发起请求到网关，再从网关调用 SpringCloud 的微服务，这些过程中希望能从日志中看到一个分布式 ID 的链路，通过请求的...
+        </div>
+      </div>
+      <div class="followers" title="followers">
+        <svg width="12" height="12" viewBox="0 0 16 16">
+          <g fill="none" fill-rule="evenodd">
+            <path d="M0 0h16v16H0z"/>
+            <path fill="#9E9E9E" d="M4.234 6.693v7.243H2.881c-.486 0-.881-.492-.881-1.095V7.875c0-.63.412-1.182.88-1.182h1.354zm3.688-3.7C8.01 2.404 8.49 1.99 9.018 2c.754.015 1.204.663 1.36.983.284.585.292 1.549.097 2.167-.177.56-.586 1.296-.586 1.296h3.066c.324 0 .625.164.826.449.204.29.27.668.178 1.011l-1.387 5.183c-.126.499-.544.847-1.016.847H5.53V6.693c1.385-.309 2.236-2.632 2.392-3.7z"/>
+          </g>
+        </svg><span>50</span>
+      </div>
+    </li>
+    
+    <li>
+      <div>
         <a href="https://toutiao.io/subjects/7315" target="_blank">
           <img src="https://img.toutiao.io/subject%2F3fb00b07ad814fce8baab2f445b3a2c8" loading="lazy" title="web前端开发知识 - 独家号" alt="web前端开发知识 - 独家号" />
         </a>
       </div>
       <div class="info">
         <div class="rank">
-          <span title="Ranking 16">16</span>
+          <span title="Ranking 17">17</span>
           <a href="https://toutiao.io/k/ci3lzlc" target="_blank" title="1 个人独立变现 6 种途径收入 130 万美金在 2020 年（人物志 21 篇）">1 个人独立变现 6 种途径收入 130 万美金在 2020 年（人物志 21 篇）</a>
         </div>
       
@@ -522,7 +551,7 @@
       </div>
       <div class="info">
         <div class="rank">
-          <span title="Ranking 17">17</span>
+          <span title="Ranking 18">18</span>
           <a href="https://toutiao.io/k/zxvyi14" target="_blank" title="[译] API 设计最佳实践">[译] API 设计最佳实践</a>
         </div>
       
@@ -548,7 +577,7 @@
       </div>
       <div class="info">
         <div class="rank">
-          <span title="Ranking 18">18</span>
+          <span title="Ranking 19">19</span>
           <a href="https://toutiao.io/k/hu9ng1x" target="_blank" title="如何做到每秒接收 100 万个数据包">如何做到每秒接收 100 万个数据包</a>
         </div>
       
@@ -574,7 +603,7 @@
       </div>
       <div class="info">
         <div class="rank">
-          <span title="Ranking 19">19</span>
+          <span title="Ranking 20">20</span>
           <a href="https://toutiao.io/k/jz2zdk9" target="_blank" title="工具 | 滴滴开源的一站式 Apache Kafka 集群指标监控与运维管控平台">工具 | 滴滴开源的一站式 Apache Kafka 集群指标监控与运维管控平台</a>
         </div>
       
@@ -589,32 +618,6 @@
             <path fill="#9E9E9E" d="M4.234 6.693v7.243H2.881c-.486 0-.881-.492-.881-1.095V7.875c0-.63.412-1.182.88-1.182h1.354zm3.688-3.7C8.01 2.404 8.49 1.99 9.018 2c.754.015 1.204.663 1.36.983.284.585.292 1.549.097 2.167-.177.56-.586 1.296-.586 1.296h3.066c.324 0 .625.164.826.449.204.29.27.668.178 1.011l-1.387 5.183c-.126.499-.544.847-1.016.847H5.53V6.693c1.385-.309 2.236-2.632 2.392-3.7z"/>
           </g>
         </svg><span>14</span>
-      </div>
-    </li>
-    
-    <li>
-      <div>
-        <a href="https://toutiao.io/subjects/454740" target="_blank">
-          <img src="https://img.toutiao.io/subject%2F0d2e1a0f4c6e4c839c9de67bdc03715c" loading="lazy" title="JavaPub - 独家号" alt="JavaPub - 独家号" />
-        </a>
-      </div>
-      <div class="info">
-        <div class="rank">
-          <span title="Ranking 20">20</span>
-          <a href="https://toutiao.io/k/eyvwks8" target="_blank" title="分布式唯一 ID 解决方案：雪花算法">分布式唯一 ID 解决方案：雪花算法</a>
-        </div>
-      
-        <div class="details">
-          阅读大概需要3分钟附源码[toc]前言单体架构的服务的日子已经一去不复返了。当前系统业务和数据存储的复杂度都在提升，分布式系统是目前使用非常普遍的解决方案。全局唯一 ID 几乎是所...
-        </div>
-      </div>
-      <div class="followers" title="followers">
-        <svg width="12" height="12" viewBox="0 0 16 16">
-          <g fill="none" fill-rule="evenodd">
-            <path d="M0 0h16v16H0z"/>
-            <path fill="#9E9E9E" d="M4.234 6.693v7.243H2.881c-.486 0-.881-.492-.881-1.095V7.875c0-.63.412-1.182.88-1.182h1.354zm3.688-3.7C8.01 2.404 8.49 1.99 9.018 2c.754.015 1.204.663 1.36.983.284.585.292 1.549.097 2.167-.177.56-.586 1.296-.586 1.296h3.066c.324 0 .625.164.826.449.204.29.27.668.178 1.011l-1.387 5.183c-.126.499-.544.847-1.016.847H5.53V6.693c1.385-.309 2.236-2.632 2.392-3.7z"/>
-          </g>
-        </svg><span>21</span>
       </div>
     </li>
     

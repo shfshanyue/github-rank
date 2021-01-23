@@ -1,12 +1,21 @@
 [
   {
+    "title": "别再问我们用什么画图的了！问就是excalidraw",
+    "description": "每次发 [链接] 相关文章时，都会有读者问我们用什么画图的。这图什么工具画的呀？好看！这个手绘风格真好看，用啥工具画的呀？可不可以介绍下这个画图的工具？诸如此类的问题，所以我决定写篇短文介绍下我们最常...",
+    "url": "https://segmentfault.com/a/1190000039068374",
+    "author": "kevinwan",
+    "home_url": "https://segmentfault.com/u/kevinwan",
+    "votes": "1",
+    "rank": 1
+  },
+  {
     "title": "AWS 开源：与社区一起逐步实现真正开源的 Elasticsearch",
     "description": "近日，Elastic 在官网发文称将对 Elasticsearch 和 Kibana 在许可证方面进行了重大的更改，由开源 Apache 2.0 许可证改为采用 Elastic License 和 SSPL（服务器端公共许可证）。",
     "url": "https://segmentfault.com/a/1190000039060487",
     "author": "鸣飞",
     "home_url": "https://segmentfault.com/u/mf",
     "votes": "4",
-    "rank": 1
+    "rank": 2
   },
   {
     "title": "《带你入门前端工程》开源了",
@@ -15,7 +24,7 @@
     "author": "谭光志",
     "home_url": "https://segmentfault.com/u/woai3c",
     "votes": "14",
-    "rank": 2
+    "rank": 3
   },
   {
     "title": "解决内存溢出问题",
@@ -24,15 +33,6 @@
     "author": "comer",
     "home_url": "https://segmentfault.com/u/comer",
     "votes": "5",
-    "rank": 3
-  },
-  {
-    "title": "2020 结点：平凡 & 重新出发",
-    "description": "2020 年，庚子年，注定是不平凡的一年，所以就平凡的过去了。年初，疫情让我在家办公了几个月，年中开始了忙碌的几个月，年底又归于平凡。也因为疫情，多了一些 beach 的时间，不得不休完 20 天的看似，还有没机...",
-    "url": "https://segmentfault.com/a/1190000039059112",
-    "author": "phodal",
-    "home_url": "https://segmentfault.com/u/phodal",
-    "votes": "2",
     "rank": 4
   },
   {
@@ -72,40 +72,13 @@
     "rank": 8
   },
   {
-    "title": "AWS 发文！直指 Elastic 正在破坏开放源代码本身的定义",
-    "description": "早在 1 月 15 日，Elastic 在官网发文称将对 Elasticsearch 和 Kibana 在许可证方面进行了重大的更改，由开源 Apache 2.0 许可证改为采用 SSPL（服务器端公共许可证）。",
-    "url": "https://segmentfault.com/a/1190000039059807",
-    "author": "王治治",
-    "home_url": "https://segmentfault.com/u/wangdazhi_sifou",
-    "votes": "1",
-    "rank": 9
-  },
-  {
-    "title": "花了一个月肝出来的编程导航，帮大家发现优质编程资源！",
-    "description": "2021 年 01 月 20 日，编程导航正式上线，做最专业灵活的编程导航站，助您轻松发现优质编程资源！编程导航不仅仅是一个项目，而是以 “帮助大家发现优质编程资源，提升效率” 为目标的完整生态。目前已上线两个产品...",
-    "url": "https://segmentfault.com/a/1190000039059334",
-    "author": "编程导航",
-    "home_url": "https://segmentfault.com/u/codenav",
-    "votes": "1",
-    "rank": 10
-  },
-  {
-    "title": "百度秘籍：如何简单优雅的适配textview行间距？",
-    "description": "导读：TextView的行间距在不同设备下的一致性表现不尽如人意，这给视觉review带来了不少麻烦，降低了RD&UI的工作效率，本文将探索出了一套低风险高兼容性的解决方案。该方案能够完全统一TextView的行间距，保...",
-    "url": "https://segmentfault.com/a/1190000039059157",
-    "author": "百度架构师",
-    "home_url": "https://segmentfault.com/u/baidujiagoushi",
-    "votes": "1",
-    "rank": 11
-  },
-  {
     "title": "JAVA的SPI机制",
     "description": "SPI（Service Provider Interface）: ，“服务提供者接口”，是指在 服务使用方 角度提出的“接口要求”，是对“服务提供方”提出的约定，简单说就是：“我需要这样的服务，现在你们来满足”。",
     "url": "https://segmentfault.com/a/1190000039061639",
     "author": "java宝典",
     "home_url": "https://segmentfault.com/u/liangtengyu",
     "votes": "1",
-    "rank": 12
+    "rank": 9
   },
   {
     "title": "讲给应届生的 Java 开源知识项目",
@@ -113,17 +86,8 @@
     "url": "https://segmentfault.com/a/1190000039060803",
     "author": "Java攻城师",
     "home_url": "https://segmentfault.com/u/javagongchengshi_5fa8ea3fc325a",
-    "votes": "1",
-    "rank": 13
-  },
-  {
-    "title": "程序员该如何写好简历？",
-    "description": "昨晚上有朋友私下问我，他的简历投了好家公司，并且都说在招人，却面试机会都不给一个，还有这位朋友他说他曾经因为跳槽太频繁，导致直接被叫回去等通知。他说其实每次跳槽都是一次成长， 但是最后他把简历发给我...",
-    "url": "https://segmentfault.com/a/1190000039059504",
-    "author": "田维常",
-    "home_url": "https://segmentfault.com/u/javahouduanjishuquanzhan",
-    "votes": "1",
-    "rank": 14
+    "votes": "2",
+    "rank": 10
   },
   {
     "title": "前端算法系列之一：时间复杂度、空间复杂度以及数据结构栈、队列的实现",
@@ -132,7 +96,16 @@
     "author": "JasonCloud",
     "home_url": "https://segmentfault.com/u/jasonwu20151119",
     "votes": "1",
-    "rank": 15
+    "rank": 11
+  },
+  {
+    "title": "idea中使用Git,Github,Gitee提交项目",
+    "description": "一、gitgit是一个分布式的版本控制系统,可以借助于git去实现团队代码版本控制及管理.1.下载安装gitgit下载地址git下载完成以后，傻瓜式(一直下一步)安装即可，不要更改安装目录(假如已安装过则无须安装)。2.git全...",
+    "url": "https://segmentfault.com/a/1190000039066404",
+    "author": "李三岁",
+    "home_url": "https://segmentfault.com/u/lisansui_5fc7ad1078a9f",
+    "votes": "2",
+    "rank": 12
   },
   {
     "title": "聊聊cortex的Backoff",
@@ -141,7 +114,7 @@
     "author": "codecraft",
     "home_url": "https://segmentfault.com/u/codecraft",
     "votes": "1",
-    "rank": 16
+    "rank": 13
   },
   {
     "title": "政采云前端小报第118期",
@@ -150,7 +123,7 @@
     "author": "政采云前端团队",
     "home_url": "https://segmentfault.com/u/zhengcaiyunqianduantuandui",
     "votes": "2",
-    "rank": 17
+    "rank": 14
   },
   {
     "title": "第四范式D轮融资7亿美元，将用于布局产业和培养人才",
@@ -159,7 +132,7 @@
     "author": "宗恩",
     "home_url": "https://segmentfault.com/u/yzn",
     "votes": "1",
-    "rank": 18
+    "rank": 15
   },
   {
     "title": "基于 WebRTC 实现自定义编码分辨率发送",
@@ -168,7 +141,7 @@
     "author": "网易云信",
     "home_url": "https://segmentfault.com/u/neteaseyunxin",
     "votes": "1",
-    "rank": 19
+    "rank": 16
   },
   {
     "title": "Redis高可用总结：Redis主从复制、哨兵集群、脑裂...",
@@ -177,7 +150,7 @@
     "author": "Ccww",
     "home_url": "https://segmentfault.com/u/ccww",
     "votes": "6",
-    "rank": 20
+    "rank": 17
   },
   {
     "title": "Linux 的安全合规性检查和加固",
@@ -186,15 +159,6 @@
     "author": "民工哥",
     "home_url": "https://segmentfault.com/u/jishuroad",
     "votes": "2",
-    "rank": 21
-  },
-  {
-    "title": "JavaScript的数据类型",
-    "description": "JavaScript的变量没有类型，可以任意赋值，但是变量的值有类型基础数据类型stringbooleannumbernullundefinedsymbolbigint引用数据类型object在object类型基础上派生出的引用类型FunctionArrayDate其他数据类型检...",
-    "url": "https://segmentfault.com/a/1190000039059448",
-    "author": "张仪ranck",
-    "home_url": "https://segmentfault.com/u/ranck",
-    "votes": "1",
-    "rank": 22
+    "rank": 18
   }
 ]
