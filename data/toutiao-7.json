@@ -62,7 +62,7 @@
   {
     "title": "基于 SSD 的 Kafka 应用层缓存架构设计与实现",
     "description": " 总第432篇 2021年 第002篇  Kafka在美团数据平台承担着统一的数据缓存和分发的角色，针对因PageCache互相污染，进而引发PageCache竞争导致实时作业被延...",
-    "votes": "22",
+    "votes": "23",
     "url": "/k/ddgxe6s",
     "avatar": "https://img.toutiao.io/subject%2F9f2f107b71194e418f7dc2cc301aa452",
     "avatarAlt": "美团技术团队 - 独家号",
@@ -132,7 +132,7 @@
   {
     "title": "把 VSCode 打造成技术写作神器",
     "description": "作为技术开发，大家平时肯定需要记录技术笔记。甚至有的同学还开通可自己的技术博客或者技术公众号进行创作。这个时候有套趁手的写作工具尤为重要，节省下时间好好休息一下，对于咱们程序员来说...",
-    "votes": "60",
+    "votes": "62",
     "url": "/k/4n0p7ex",
     "avatar": "https://img.toutiao.io/subject%2Fad3da7db4aeb4924adba40f7036c43ee",
     "avatarAlt": "老瘦家儿子 - 独家号",
