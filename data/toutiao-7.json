@@ -2,7 +2,7 @@
   {
     "title": "Spring 中那些让你爱不释手的代码技巧",
     "description": "前言 最近越来越多的读者认可我的文章，还是件挺让人高兴的事情。有些读者私信我说希望后面多分享spring方面的文章，这样能够在实际工作中派上用场。正好我对spring源码有过一定的...",
-    "votes": "148",
+    "votes": "154",
     "url": "/k/lev94mm",
     "avatar": "https://img.toutiao.io/subject%2F2897d48b5341479ba9a75cd95cffa9d4",
     "avatarAlt": "第五维度 - 独家号",
@@ -10,19 +10,9 @@
     "homeUrl": "/subjects/258758"
   },
   {
-    "title": "闯过这 54 关，点亮你的 Git 技能树",
-    "description": "开篇如今，Git 大行其道，颇有一统天下之势。如果你的技能树上 Git 和 Github 的图标还没有点亮的话，你都不好意思说你是程序员。别说互联网企业，我接触到的许多传统企业都在...",
-    "votes": "36",
-    "url": "/k/6kqnm2d",
-    "avatar": "https://img.toutiao.io/user/c4b0a6dd73634edba21e7ef41b5622a3/thumb",
-    "avatarAlt": "软件匠艺社区 - 独家号",
-    "subjectName": "软件匠艺社区",
-    "homeUrl": "/subjects/58319"
-  },
-  {
     "title": "使用了这个神器，让我的代码 bug 少了一半",
     "description": "  最近一段时间，我们团队在生产环境出现了几次线上问题，有部分比较严重，直接影响用户功能的使用，惹得领导不高兴了，让我想办法提升代码质量，这时候项目工程代码质量检测神器——Sona...",
-    "votes": "126",
+    "votes": "130",
     "url": "/k/w8zvjee",
     "avatar": "https://img.toutiao.io/subject%2F0aae3536b7d44492b1974b1077394f7d",
     "avatarAlt": "苏三说技术 - 独家号",
@@ -32,12 +22,42 @@
   {
     "title": "我的 2020 年阅读书单",
     "description": "把2020年读过的书单简单整理下分个类，把一些值得推荐的书列出来（技术书籍除外），给大家作个参考。其中有些书目，特别想推荐大家的，在之前的推文也都单独成文。为什么都是不列技术书，反...",
-    "votes": "67",
+    "votes": "70",
     "url": "/k/e83kg1a",
     "avatar": "https://img.toutiao.io/subject%2F0e6fd0887f9046ed9bec490e8d807dd1",
     "avatarAlt": "码闻强识 - 独家号",
     "subjectName": "码闻强识",
     "homeUrl": "/subjects/137286"
+  },
+  {
+    "title": "DDD 实现之路",
+    "description": "编者按：这篇文章最早撰写于2014年，作者也是《实现领域驱动设计》的译者。几年过去了，DDD在坊间依然方兴未艾，然而它的复杂性所引发的误解也层出不穷。对于一些基本概念的澄清甚至溯源...",
+    "votes": "98",
+    "url": "/k/9r5qrcy",
+    "avatar": "https://img.toutiao.io/user/5a7a70a7ff844188be76ef25c0a082d7/thumb",
+    "avatarAlt": "ThoughtWorks - 独家号",
+    "subjectName": "ThoughtWorks",
+    "homeUrl": "/subjects/8973"
+  },
+  {
+    "title": "讲解 Zookeeper 的五个核心知识点",
+    "description": "1 ZooKeeper简介ZooKeeper 是一个开源的分布式协调框架，它的定位是为分布式应用提供一致性服务，是整个大数据体系的管理员。ZooKeeper 会封装好复杂易出错的关...",
+    "votes": "53",
+    "url": "/k/te1s8su",
+    "avatar": "https://img.toutiao.io/subject%2F8e12ef64799649acbfd936883ef16c3c",
+    "avatarAlt": "服务架构及中台 - 独家号",
+    "subjectName": "服务架构及中台",
+    "homeUrl": "/subjects/26578"
+  },
+  {
+    "title": "把 VSCode 打造成技术写作神器",
+    "description": "作为技术开发，大家平时肯定需要记录技术笔记。甚至有的同学还开通可自己的技术博客或者技术公众号进行创作。这个时候有套趁手的写作工具尤为重要，节省下时间好好休息一下，对于咱们程序员来说...",
+    "votes": "97",
+    "url": "/k/4n0p7ex",
+    "avatar": "https://img.toutiao.io/subject%2Fad3da7db4aeb4924adba40f7036c43ee",
+    "avatarAlt": "老瘦家儿子 - 独家号",
+    "subjectName": "老瘦家儿子",
+    "homeUrl": "/subjects/102436"
   },
   {
     "title": "基于 SSD 的 Kafka 应用层缓存架构设计与实现",
@@ -50,14 +70,14 @@
     "homeUrl": "/subjects/117027"
   },
   {
-    "title": "讲解 Zookeeper 的五个核心知识点",
-    "description": "1 ZooKeeper简介ZooKeeper 是一个开源的分布式协调框架，它的定位是为分布式应用提供一致性服务，是整个大数据体系的管理员。ZooKeeper 会封装好复杂易出错的关...",
-    "votes": "50",
-    "url": "/k/te1s8su",
-    "avatar": "https://img.toutiao.io/subject%2F8e12ef64799649acbfd936883ef16c3c",
-    "avatarAlt": "服务架构及中台 - 独家号",
-    "subjectName": "服务架构及中台",
-    "homeUrl": "/subjects/26578"
+    "title": "微服务实现简单的分布式日志追踪",
+    "description": "最近想给项目添加一个简单的分布式请求跟踪功能，从前端发起请求到网关，再从网关调用 SpringCloud 的微服务，这些过程中希望能从日志中看到一个分布式 ID 的链路，通过请求的...",
+    "votes": "84",
+    "url": "/k/s7af3dl",
+    "avatar": "https://img.toutiao.io/subject%2Fc0fcca1841d3492a9c6a91e8af2a5c87",
+    "avatarAlt": "技术杂谈 - 独家号",
+    "subjectName": "技术杂谈",
+    "homeUrl": "/subjects/5207"
   },
   {
     "title": "换个角度，聊聊全链路压测",
@@ -70,24 +90,14 @@
     "homeUrl": "/subjects/188023"
   },
   {
-    "title": "微服务实现简单的分布式日志追踪",
-    "description": "最近想给项目添加一个简单的分布式请求跟踪功能，从前端发起请求到网关，再从网关调用 SpringCloud 的微服务，这些过程中希望能从日志中看到一个分布式 ID 的链路，通过请求的...",
-    "votes": "74",
-    "url": "/k/s7af3dl",
-    "avatar": "https://img.toutiao.io/subject%2Fc0fcca1841d3492a9c6a91e8af2a5c87",
-    "avatarAlt": "技术杂谈 - 独家号",
-    "subjectName": "技术杂谈",
-    "homeUrl": "/subjects/5207"
-  },
-  {
-    "title": "把 VSCode 打造成技术写作神器",
-    "description": "作为技术开发，大家平时肯定需要记录技术笔记。甚至有的同学还开通可自己的技术博客或者技术公众号进行创作。这个时候有套趁手的写作工具尤为重要，节省下时间好好休息一下，对于咱们程序员来说...",
-    "votes": "79",
-    "url": "/k/4n0p7ex",
-    "avatar": "https://img.toutiao.io/subject%2Fad3da7db4aeb4924adba40f7036c43ee",
-    "avatarAlt": "老瘦家儿子 - 独家号",
-    "subjectName": "老瘦家儿子",
-    "homeUrl": "/subjects/102436"
+    "title": "下一代消息队列 Pulsar 到底是什么？",
+    "description": "背景  之前琢磨了很久一直想写一篇pulsar相关的文章，但是一直知识储备不够，对于很多细节还是不了解，于是查了很多资料，总算是可以凑出一篇文章了。Pulsar是一个由yahoo公...",
+    "votes": "73",
+    "url": "/k/zdb2zbb",
+    "avatar": "https://img.toutiao.io/subject%2F3ae669a83aa04c3e9479d597b1b824c9",
+    "avatarAlt": "咖啡拿铁的分享 - 独家号",
+    "subjectName": "咖啡拿铁的分享",
+    "homeUrl": "/subjects/116820"
   },
   {
     "title": "Golang 最细节篇：struct{} 空结构体究竟是啥？",
@@ -100,19 +110,9 @@
     "homeUrl": "/subjects/133906"
   },
   {
-    "title": "下一代消息队列 Pulsar 到底是什么？",
-    "description": "背景  之前琢磨了很久一直想写一篇pulsar相关的文章，但是一直知识储备不够，对于很多细节还是不了解，于是查了很多资料，总算是可以凑出一篇文章了。Pulsar是一个由yahoo公...",
-    "votes": "68",
-    "url": "/k/zdb2zbb",
-    "avatar": "https://img.toutiao.io/subject%2F3ae669a83aa04c3e9479d597b1b824c9",
-    "avatarAlt": "咖啡拿铁的分享 - 独家号",
-    "subjectName": "咖啡拿铁的分享",
-    "homeUrl": "/subjects/116820"
-  },
-  {
     "title": "聊聊风口上的 eBPF",
     "description": "大家好，今天分享的主题是《eBPF 探索之旅》，围绕三部分展开：eBPF 是什么eBPF 能做什么如何编写 eBPF 程序认识 eBPF eBPF 是什么，从字面上来看是扩展伯克利...",
-    "votes": "64",
+    "votes": "65",
     "url": "/k/53qmmzi",
     "avatar": "https://img.toutiao.io/subject%2F4f9b8a1b9ad34bf3b815671f8461ff25",
     "avatarAlt": "又拍云 - 独家号",
@@ -120,19 +120,19 @@
     "homeUrl": "/subjects/182218"
   },
   {
-    "title": "超越身边 80% 的人，其实没有你想象的那么难",
-    "description": "我是架构精进之路，点击上方“关注”，坚持每天为你分享技术干货，私信我回复“01”，送你一份程序员成长进阶大礼包。职场工作多年来，我观察到一些有点出乎意料的现象，例如：1、很多年轻时...",
-    "votes": "13",
-    "url": "/k/ns5biqo",
-    "avatar": "https://img.toutiao.io/subject%2F071476c43e0d42cf95f3e77f046c814b",
-    "avatarAlt": "架构精进之路 - 独家号",
-    "subjectName": "架构精进之路",
-    "homeUrl": "/subjects/452638"
+    "title": "最终一致性，一致只会迟到，但绝不会缺席",
+    "description": "又是这个封面，最近这个封面出现的比较频繁，别问为什么？问就是，这个封面 = 内容牛B这篇文章我们继续聊分布式相关的内容。提到分布式系统，就一定绕不开“一致性”，这次我们说说：最终一...",
+    "votes": "59",
+    "url": "/k/9q7yxnu",
+    "avatar": "https://img.toutiao.io/subject%2F180d026f85274c998656474cd1988d0f",
+    "avatarAlt": "四猿外 - 独家号",
+    "subjectName": "四猿外",
+    "homeUrl": "/subjects/426740"
   },
   {
     "title": "1 个人独立变现 6 种途径收入 130 万美金在 2020 年（人物志 21 篇）",
     "description": "一个国外的独立变现创作者如何在业余时间实现了这样的复合性收入呢？💰 $135k - 广告🤑 $177k - 推广佣金🤝 $182k - 赞助💡 $470k - 自学课程📗 $295...",
-    "votes": "34",
+    "votes": "36",
     "url": "/k/ci3lzlc",
     "avatar": "https://img.toutiao.io/subject%2F3fb00b07ad814fce8baab2f445b3a2c8",
     "avatarAlt": "web前端开发知识 - 独家号",
@@ -140,14 +140,34 @@
     "homeUrl": "/subjects/7315"
   },
   {
+    "title": "线程池最佳线程数量到底要如何配置？",
+    "description": "一、前言 对于从事后端开发的同学来说，线程是必须要使用了，因为使用它可以提升系统的性能。但是，创建线程和销毁线程都是比较耗时的操作，频繁的创建和销毁线程会浪费很多CPU的资源。此外...",
+    "votes": "54",
+    "url": "/k/pf728mr",
+    "avatar": "https://img.toutiao.io/subject%2F0aae3536b7d44492b1974b1077394f7d",
+    "avatarAlt": "苏三说技术 - 独家号",
+    "subjectName": "苏三说技术",
+    "homeUrl": "/subjects/453205"
+  },
+  {
     "title": "[译] API 设计最佳实践",
     "description": "良好设计的API = 快乐的程序员 😃。 应用程序接口（API）是一种接口，它让应用程序可以轻松地使用另一个应用程序的数据和资源，API 对于一个产品或公司的成功至关重要。如果没有...",
-    "votes": "16",
+    "votes": "19",
     "url": "/k/zxvyi14",
     "avatar": "https://img.toutiao.io/subject%2F95de346f69a948879bfbec7ff2e0928a",
     "avatarAlt": "Bloomingroses - 独家号",
     "subjectName": "Bloomingroses",
     "homeUrl": "/subjects/98777"
+  },
+  {
+    "title": "全网最全！彻底弄透 Java 处理 GMT/UTC 日期时间",
+    "description": " 你好，我是A哥(YourBatman)。本系列的目的是明明白白、彻彻底底的搞定日期/时间处理的几乎所有case。上篇文章 铺设所有涉及到的概念解释，例如GMT、UTC、夏令时、时...",
+    "votes": "56",
+    "url": "/k/mmjgntt",
+    "avatar": "https://img.toutiao.io/subject%2Fc0dcc515db9f446695846c96cc158ed6",
+    "avatarAlt": "BAT的乌托邦 - 独家号",
+    "subjectName": "BAT的乌托邦",
+    "homeUrl": "/subjects/166186"
   },
   {
     "title": "如何落地云原生 DevOps？",
@@ -162,7 +182,7 @@
   {
     "title": "如何做到每秒接收 100 万个数据包",
     "description": "上周在一次偶然的谈话中，我无意中听到一位同事说:Linux的网络堆栈太慢了!你不能指望它在每个核每秒处理超过5万个数据包!这引起了我的思考。虽然我同意每个核50kpps可能是任何实...",
-    "votes": "28",
+    "votes": "29",
     "url": "/k/hu9ng1x",
     "avatar": "https://img.toutiao.io/subject%2Fa2bb7b11f9fc431fb8fb0d5cc36a3cac",
     "avatarAlt": "小弧光黑板报 - 独家号",
@@ -170,33 +190,13 @@
     "homeUrl": "/subjects/458"
   },
   {
-    "title": "分布式唯一 ID 解决方案：雪花算法",
-    "description": "阅读大概需要3分钟附源码[toc]前言单体架构的服务的日子已经一去不复返了。当前系统业务和数据存储的复杂度都在提升，分布式系统是目前使用非常普遍的解决方案。全局唯一 ID 几乎是所...",
-    "votes": "25",
-    "url": "/k/eyvwks8",
-    "avatar": "https://img.toutiao.io/subject%2F0d2e1a0f4c6e4c839c9de67bdc03715c",
-    "avatarAlt": "JavaPub - 独家号",
-    "subjectName": "JavaPub",
-    "homeUrl": "/subjects/454740"
-  },
-  {
-    "title": "线程池最佳线程数量到底要如何配置？",
-    "description": "一、前言 对于从事后端开发的同学来说，线程是必须要使用了，因为使用它可以提升系统的性能。但是，创建线程和销毁线程都是比较耗时的操作，频繁的创建和销毁线程会浪费很多CPU的资源。此外...",
-    "votes": "46",
-    "url": "/k/pf728mr",
-    "avatar": "https://img.toutiao.io/subject%2F0aae3536b7d44492b1974b1077394f7d",
-    "avatarAlt": "苏三说技术 - 独家号",
-    "subjectName": "苏三说技术",
-    "homeUrl": "/subjects/453205"
-  },
-  {
-    "title": "最终一致性，一致只会迟到，但绝不会缺席",
-    "description": "又是这个封面，最近这个封面出现的比较频繁，别问为什么？问就是，这个封面 = 内容牛B这篇文章我们继续聊分布式相关的内容。提到分布式系统，就一定绕不开“一致性”，这次我们说说：最终一...",
-    "votes": "45",
-    "url": "/k/9q7yxnu",
-    "avatar": "https://img.toutiao.io/subject%2F180d026f85274c998656474cd1988d0f",
-    "avatarAlt": "四猿外 - 独家号",
-    "subjectName": "四猿外",
-    "homeUrl": "/subjects/426740"
+    "title": "工具 | 滴滴开源的一站式 Apache Kafka 集群指标监控与运维管控平台",
+    "description": "大家好，我是周刊菌。 以下内容选自「码农周刊 VIP 会员」圈子，每日更新，精彩不断。  「码农周刊 VIP 会员」推出 38 周啦！感谢亲们的大力支持！第 038 期「码农周刊 ...",
+    "votes": "16",
+    "url": "/k/jz2zdk9",
+    "avatar": "https://img.toutiao.io/subject%2Fd2f421bbe0be47369b6560e316a5153b",
+    "avatarAlt": "头条精选 - 独家号",
+    "subjectName": "头条精选",
+    "homeUrl": "/subjects/4"
   }
 ]
