@@ -90,16 +90,6 @@
     "homeUrl": "/subjects/58319"
   },
   {
-    "title": "DDD 实现之路",
-    "description": "编者按：这篇文章最早撰写于2014年，作者也是《实现领域驱动设计》的译者。几年过去了，DDD在坊间依然方兴未艾，然而它的复杂性所引发的误解也层出不穷。对于一些基本概念的澄清甚至溯源...",
-    "votes": "190",
-    "url": "/k/9r5qrcy",
-    "avatar": "https://img.toutiao.io/user/5a7a70a7ff844188be76ef25c0a082d7/thumb",
-    "avatarAlt": "ThoughtWorks - 独家号",
-    "subjectName": "ThoughtWorks",
-    "homeUrl": "/subjects/8973"
-  },
-  {
     "title": "我用 Kafka 两年踩过的一些非比寻常的坑",
     "description": " 大家好，我是苏三，又和大家见面了。 前言我的上家公司是做餐饮系统的，每天中午和晚上用餐高峰期，系统的并发量不容小觑。为了保险起见，公司规定各部门都要在吃饭的时间轮流值班，防止出现...",
     "votes": "191",
@@ -110,9 +100,19 @@
     "homeUrl": "/subjects/453205"
   },
   {
+    "title": "DDD 实现之路",
+    "description": "编者按：这篇文章最早撰写于2014年，作者也是《实现领域驱动设计》的译者。几年过去了，DDD在坊间依然方兴未艾，然而它的复杂性所引发的误解也层出不穷。对于一些基本概念的澄清甚至溯源...",
+    "votes": "190",
+    "url": "/k/9r5qrcy",
+    "avatar": "https://img.toutiao.io/user/5a7a70a7ff844188be76ef25c0a082d7/thumb",
+    "avatarAlt": "ThoughtWorks - 独家号",
+    "subjectName": "ThoughtWorks",
+    "homeUrl": "/subjects/8973"
+  },
+  {
     "title": "国内有哪些顶级技术团队的博客值得推荐？",
     "description": " 这个周末基本 90%的时间都在弄星球的《Java 面试进阶指北》这个小册。 晚上纠结了半天，不知道写点啥。突然想到很多小伙伴都非常好奇我都订阅了哪些技术团队的博客。于是，我便写下...",
-    "votes": "177",
+    "votes": "179",
     "url": "/k/j7v5pee",
     "avatar": "https://img.toutiao.io/subject%2Ff834a19bb9e24261a813b7a1ebc03a11",
     "avatarAlt": "JavaGuide - 独家号",
